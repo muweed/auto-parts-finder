@@ -1,0 +1,29 @@
+
+[
+    {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2020,
+        "part_name": "Front Bumper",
+        "price": 180.99,
+        "type": "OEM",
+        "condition": "New",
+        "return_policy": "30 days return",
+        "vendor": "eBay",
+        "pickup_only": false,
+        "link": "https://example.com/part1"
+    },
+    {
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2020,
+        "part_name": "Front Bumper",
+        "price": 120.50,
+        "type": "Aftermarket",
+        "condition": "Used",
+        "return_policy": "No returns",
+        "vendor": "Local Shop",
+        "pickup_only": true,
+        "link": "https://example.com/part2"
+    }
+]
